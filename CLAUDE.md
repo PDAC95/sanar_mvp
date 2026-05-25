@@ -4,6 +4,14 @@ Este archivo define cómo Claude debe trabajar en este repositorio. Estas reglas
 
 ---
 
+## 0. Repositorio
+
+- **Remoto:** https://github.com/PDAC95/sanar_mvp
+- **Rama principal:** `main`
+- **Dueño:** PDAC95
+
+---
+
 ## 1. Comunicación
 
 - **Idioma:** español siempre. Toda respuesta, explicación, pregunta y comentario al usuario va en español.
